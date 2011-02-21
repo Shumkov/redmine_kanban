@@ -19,7 +19,7 @@ class UserKanbansController < ApplicationController
     @projects_sorted_by_tree = []
 
     #@kanban.projects
-    Project.each do |project|
+    Project.all.each do |project|
       if @kanban.has_issues_for_project_and_user?(project, @user)
         @projects_sorted_by_tree << project
       end
