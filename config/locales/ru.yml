@@ -33,7 +33,7 @@ ru:
   kanban_text_notice_sync: Kanban lists synced.
   kanban_text_saved: Updated lists.
   field_state: "State"
-  kanban_text_nothing: "(No issues)"
+  kanban_text_nothing: "(Нет задач)"
   kanban_text_color_help: "Color Help"
   kanban_text_normal_color: "Normal - <span>Yellow</span>"
   kanban_text_assigned_to_me_color: "Assigned to Me - <span>Green header</span>"
