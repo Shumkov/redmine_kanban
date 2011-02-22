@@ -37,8 +37,8 @@ class KanbanPane
     return issues.group_by {|issue|
       issue.priority
     }.sort {|a,b|
-      a[0].position <=> b[0].position
-    }.reverse
+      b[0].position <=> a[0].position
+    }
   end
 
   def conditions_from_for_options(for_option)

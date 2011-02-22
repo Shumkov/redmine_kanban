@@ -1,4 +1,4 @@
-# Russion strings go here for Rails i18n
+# Russian strings go here for Rails i18n
 ru:
   kanban_title: Kanban
   kanban_text_incoming: Backlog
@@ -8,7 +8,7 @@ ru:
   kanban_text_user: Пользователь
   kanban_text_active: В разработке
   kanban_text_testing: Тестирование
-  kanban_text_finished_requests: Проверенные
+  kanban_text_finished_requests: Выполненные задачи
   kanban_text_canceled_requests: Отвергнутые
   kanban_text_general_settings: Основные настройки
   kanban_label_user_help: User Help Content
@@ -22,7 +22,7 @@ ru:
   kanban_label_quick-tasks_pane: Быстрые задачи
   kanban_label_active_pane: В разработке
   kanban_label_testing_pane: Тестирование
-  kanban_label_finished_pane: Проверенные
+  kanban_label_finished_pane: Выполненные задачи
   kanban_label_canceled_pane: Отвергнутые
   kanban_label_limit: Максимальное количество элементов
   kanban_label_day_limit: Количество дней
@@ -47,7 +47,7 @@ ru:
   kanban_label_incoming_project_change: "Must change issue project when"
   kanban_label_incoming_url: "Url to link the Incoming pane title to"
   kanban_text_workflow_settings_description: "Restrictions when issues are moved out of panes."
-  text_my_kanban_requests_title: "My Requests"
+  text_my_kanban_requests_title: "Мои запросы"
   text_user_kanban_requests_title: "{{user}}'s Requests"
   text_kanban_board: "Kanban Board"
   label_user_switch: "Switch User"
@@ -67,6 +67,6 @@ ru:
 
   label_due_asap: "Due ASAP"
   label_due_in_x_days: "Due in {{days}} days"
-  text_assigned_kanban_title: "My Assignments"
-  text_assigned_to_user_kanban_title: "{{user}}'s Assignments"
+  text_assigned_kanban_title: "Мои задачи"
+  text_assigned_to_user_kanban_title: "Задачи {{user}}"
   label_switch_assignee: "Switch Assignee"
