@@ -67,13 +67,10 @@ ru:
 
   label_due_asap: "Срочные"
   label_due_in_x_days:
-    one: "{{days}} день"
-    few: "{{days}} дня"
-    many: "{{days}} дней"
-
-  label_due_in_x_days_plural: "{{days}} день"
-  label_due_in_x_days_plural2: "{{days}} дня"
-  label_due_in_x_days_plural5: "{{days}} дней"
+    one:   "1 день"
+    few:   "{{count}} дня"
+    many:  "{{count}} дней"
+    other: "{{count}} дней"
 
   text_assigned_kanban_title: "Мои задачи"
   text_assigned_to_user_kanban_title: "Задачи {{user}}"
