@@ -3,7 +3,7 @@ ru:
   kanban_title: Kanban
   kanban_text_incoming: Backlog
   kanban_text_backlog: Анализ
-  kanban_text_selected_requests: TODO
+  kanban_text_selected_requests: Отобранные задачи
   kanban_text_quick_tasks: Быстрые задачи
   kanban_text_user: Пользователь
   kanban_text_active: В разработке
